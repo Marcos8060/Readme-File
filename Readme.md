@@ -15,3 +15,5 @@ Thursday|April|Mary|Ontario
 Friday|May|Cynthia|Moscow
 Saturday|June|Ann|Paris
 Sunday|July|Mike|Dare esalam
+
+![Mango](./Images/Img1.jpg)
