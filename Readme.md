@@ -1,9 +1,9 @@
 ## Table of Contents
-* Days of the week
-* Months of the year
+* Days of the week 
+* Months of the year 
+* Names 
 * Names
-* Names
-* Cities
+* Cities 
 
 # My Table
 |Days of the week|Months of the Year|Names|Cities|
